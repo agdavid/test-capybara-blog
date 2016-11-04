@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-describe "Index" do 
+describe "Blogs Index" do 
     before do 
         Blog.destroy_all
     end
